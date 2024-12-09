@@ -1,8 +1,0 @@
-1. So that way someone can't mess up the stack by messing with them
-2. In places where you need to check if the stack is empty
-3. So programmers know what went wrong
-4. Because when you remove one from the beginning, it has to move all the elements back. In that case, deleting from the beginning is O(n) and deleting from the end is O(1)
-5. 
-   a. Testing the smallest pieces of code
-   b. The test code checks the functions and variables
-   c. To make sure everything works
