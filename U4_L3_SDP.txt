@@ -1,0 +1,2 @@
+1. The code to reverse the text will be the same
+2. I will have to read and write to a file for this

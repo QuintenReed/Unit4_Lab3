@@ -1,1 +1,0 @@
-1. The fact that it reads from the end and back
